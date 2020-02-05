@@ -1,0 +1,18 @@
+[{
+ "key":"global.projectName",
+ "en": "Project name",
+ "ml": "Nammude project",
+ "enVerified":"true",
+ "arVerified":"false",
+ "comments":["Amal created", "john edited"],
+ "tags":["cmp", "nehru trophy"]
+},
+{
+    "key":"global.thanks",
+    "en": "Thanks",
+    "ml": "Nanni",
+    "enVerified":"true",
+    "arVerified":"false",
+    "comments":["Amal created", "john edited"],
+    "tags":["cmp", "nehru trophy"]
+}]
