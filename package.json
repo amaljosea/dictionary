@@ -1,0 +1,23 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howareyouami/dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howareyouami/dictionary/issues"
+  },
+  "homepage": "https://github.com/howareyouami/dictionary#readme",
+  "dependencies": {
+    "require-all": "^3.0.0"
+  }
+}
